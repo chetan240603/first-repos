@@ -1,0 +1,24 @@
+.logo{
+    width: 100px;
+    height: 100px;
+}
+.navbar1{
+    background-color: #fff;
+}
+.navbar{
+    margin-top: 30px;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+    font-size: 15px;
+}
+a:hover{
+    color: blueviolet;
+    text-decoration: none;
+}
+input{
+    height: 50px;
+    border-radius: 10px;
+}
+
